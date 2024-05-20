@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Formulario de Información</title>
+    <link rel="stylesheet" href="../CSS/Reporte.css">
+</head>
+<body>
+    <h1>Formulario de Información</h1>
+    <form action="procesar_formulario.php" method="post">
+        <label for="nombre">Nombre:</label>
+        <input type="text" id="nombre" name="Nombre"><br><br>
+
+        <label for="apellido">Apellido:</label>
+        <input type="text" id="apellido" name="Apellido"><br><br>
+
+        <label for="puesto">Puesto:</label>
+        <select id="puesto" name="Puesto">
+            <option value="Cliente">Cliente</option>
+            <option value="Empleado">Empleado</option>
+            <option value="Proveedor">Proveedor</option>
+        </select><br><br>
+
+        <label for="contenido">Contenido:</label>
+        <input type="text" id="contenido" name="Contenido"><br><br>
+
+        <label for="numero">Número:</label>
+        <input type="text" id="numero" name="Numero"><br><br>
+
+        <label for="correo">Correo:</label>
+        <input type="text" id="correo" name="Correo"><br><br>
+
+        <label for="idTelegram">ID de Telegram:</label>
+        <input type="text" id="idTelegram" name="IdTelegram"><br><br>
+
+        <label for="clave">Clave:</label>
+        <input type="password" id="clave" name="Clave"><br><br>
+
+        <input type="submit" value="Enviar">
+    </form>
+</body>
+</html>

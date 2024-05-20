@@ -1,0 +1,507 @@
+
+Name: string
+Role: Proveedor
+LastName: string
+MailAddress: string
+Password: 809345
+Phonenumber: 809-782-6565
+Fecha: 31/10/2023 2:44:18
+///////////////////////////////////////
+
+Name: string
+Role: Empleado
+LastName: string
+MailAddress: string
+Password: 809349
+Phonenumber: 809-782-6565
+Fecha: 31/10/2023 2:44:34
+///////////////////////////////////////
+
+Name: string
+Role: Cliente
+LastName: string
+MailAddress: string
+Password: 809340
+Phonenumber: 809-782-6565
+Fecha: 31/10/2023 2:44:42
+///////////////////////////////////////
+
+Name: Yahinniel Vásquez 
+Role: Cliente
+LastName: Yahinniel Vasquez
+MailAddress: yahinnieltheking01@gmail.com
+Password: 329230
+Phonenumber: 829-340-8864
+Fecha: 31/10/2023 2:45:32
+///////////////////////////////////////
+
+Name: Yahinniel Vásquez 
+Role: Cliente
+LastName: Yahinniel Vasquez
+MailAddress: yahinnieltheking01@gmail.com
+Password: 320121210
+Phonenumber: 829-340-8864
+Fecha: 31/10/2023 2:50:50
+///////////////////////////////////////
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+Name: Yahinniel Vásquez 
+Role: Proveedor
+UserName: yahi
+LastName: Yahinniel Vasquez
+MailAddress: yahinnieltheking01@gmail.com
+Password: 8293408865
+Phonenumber: 829-340-8864
+Fecha: 31/10/2023 2:51:28
+
+///////////////////////////////////////
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: Yahinniel Vásquez                               |
+|   Role: Proveedor                              |
+|   UserName: yahi                      |  
+|   LastName: Yahinniel Vasquez                      |
+|   MailAddress: yahinnieltheking01@gmail.com                |
+|   Password: 353235                      |
+|   Phonenumber: 829-340-8864                |
+|   Fecha: 31/10/2023 2:53:52                     |
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: Yahinniel Vásquez                               |
+|   Role: Cliente                              |
+|   UserName: yaji                      |  
+|   LastName: Yahinniel Vasquez                      |
+|   MailAddress: yahinnieltheking01@gmail.com                |
+|   Password: 328920                      |
+|   Phonenumber: 829-340-8864                |
+|   Fecha: 31/10/2023 3:14:40                     |
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: Yajaira                              |
+|   Role: Proveedor                              |
+|   UserName: dani                      |  
+|   LastName: Yahinniel Vasquez                      |
+|   MailAddress: yahinnieltheking01@gmail.com                |
+|   Password: 145                      |
+|   Phonenumber: 829-340-8864                |
+|   Fecha: 31/10/2023 3:34:50                     |
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: Yahinniel Vásquez                               |
+|   Role: Empleado                              |
+|   UserName: ori                      |  
+|   LastName: Yahinniel Vasquez                      |
+|   MailAddress: yahinnieltheking01@gmail.com                |
+|   Password: 19                      |
+|   Phonenumber: +18293408864                |
+|   Fecha: 31/10/2023 3:35:35                     |
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: yahinniel
+|   Role: Cliente
+|   UserName: yahi                        
+|   LastName: vasquez
+|   MailAddress: yahinnieltheking01@gmail.com
+|   Password: 239230
+|   Phonenumber: 809-782-6565
+|   Fecha: 31/10/2023 13:00:53
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: yahinniel
+|   Role: Cliente
+|   UserName: yahi                        
+|   LastName: vasquez
+|   MailAddress: yahinnieltheking01@gmail.com
+|   Password: 203232360
+|   Phonenumber: 809-782-6565
+|   Fecha: 31/10/2023 14:02:24
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: yahinniel
+|   Role: Cliente
+|   UserName: yahi                        
+|   LastName: vasquez
+|   MailAddress: yahips4principal@gmail.com
+|   Password: 203232360
+|   Phonenumber: 809-782-6565
+|   Fecha: 31/10/2023 14:03:23
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: yahinniel
+|   Role: Cliente
+|   UserName: yahi                        
+|   LastName: vasquez
+|   MailAddress: Thaliannysanchez@gmail.com
+|   Password: 203232360
+|   Phonenumber: 809-782-6565
+|   Fecha: 31/10/2023 14:04:59
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: yahinniel
+|   Role: Cliente
+|   UserName: yahi                        
+|   LastName: vasquez
+|   MailAddress: S.mariela1831@gmail.com
+|   Password: 203232360
+|   Phonenumber: 809-782-6565
+|   Fecha: 31/10/2023 14:07:59
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: thalianny
+|   Role: Empleado
+|   UserName: thali                        
+|   LastName: vasquez
+|   MailAddress: Thaliannysanchez@gmail.com
+|   Password: 12212109
+|   Phonenumber: 809-782-6565
+|   Fecha: 31/10/2023 14:16:47
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: thalianny
+|   Role: Empleado
+|   UserName: thali                        
+|   LastName: vasquez
+|   MailAddress: yahips4principal@gmail.com
+|   Password: 12212109
+|   Phonenumber: 809-782-6565
+|   Fecha: 31/10/2023 14:17:04
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: string
+|   Role: Empleado
+|   UserName: popi                        
+|   LastName: string
+|   MailAddress: gabrielgrillete@gmail.com
+|   Password: 323829
+|   Phonenumber: string
+|   Fecha: 31/10/2023 14:19:00
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: string
+|   Role: Empleado
+|   UserName: popi                        
+|   LastName: string
+|   MailAddress: gabrielgrillete@gmail.com
+|   Password: 2302329
+|   Phonenumber: 809-782-6565
+|   Fecha: 31/10/2023 14:21:45
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: string
+|   Role: Cliente
+|   UserName: popi                        
+|   LastName: string
+|   MailAddress: gabrielgrillete@gmail.com
+|   Password: 32920
+|   Phonenumber: 809-782-6565
+|   Fecha: 31/10/2023 14:23:14
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: Yahinniel Vásquez 
+|   Role: Proveedor
+|   UserName: yaji                        
+|   LastName: Yahinniel Vasquez
+|   MailAddress: yahinnieltheking01@gmail.com
+|   Password: 43902235
+|   Phonenumber: 829-340-8864
+|   Fecha: 31/10/2023 15:07:02
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: Yahinniel Vásquez 
+|   Role: Cliente
+|   UserName: angelo                        
+|   LastName: Yahinniel Vasquez
+|   MailAddress: yahinnieltheking01@gmail.com
+|   Password: 120
+|   Phonenumber: 829-340-8864
+|   Fecha: 31/10/2023 15:09:21
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: Yahinniel Vásquez 
+|   Role: Empleado
+|   UserName: yajaira                        
+|   LastName: Yahinniel Vasquez
+|   MailAddress: yahinnieltheking01@gmail.com
+|   Password: 129
+|   Phonenumber: 829-340-8864
+|   Fecha: 31/10/2023 15:09:55
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: Oscar
+|   Role: Cliente
+|   UserName: okalito                        
+|   LastName: Baez
+|   MailAddress: yahinnieltheking01@gmail.com
+|   Password: 190
+|   Phonenumber: 829-340-8864
+|   Fecha: 31/10/2023 18:10:21
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: Yahinniel Vásquez 
+|   Role: Proveedor
+|   UserName: criss                        
+|   LastName: Yahinniel Vasquez
+|   MailAddress: yahinnieltheking01@gmail.com
+|   Password: 55
+|   Phonenumber: 829-340-8864
+|   Fecha: 31/10/2023 18:11:32
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: string                     
+|   LastName: string
+|   Puesto: string
+|   MailAddress: string
+|   Phonenumber: string
+|-----------------------------------------------------------------------------------------------
+|   Reporte: string
+|-----------------------------------------------------------------------------------------------
+|   Fecha: 02/11/2023 15:51:26
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: string                     
+|   LastName: string
+|   Puesto: string
+|   MailAddress: string
+|   Phonenumber: yahinnieltheking01@gmail.com
+|-----------------------------------------------------------------------------------------------
+|   Reporte: string
+|-----------------------------------------------------------------------------------------------
+|   Fecha: 02/11/2023 16:43:53
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: string                     
+|   LastName: string
+|   Puesto: string
+|   MailAddress: string
+|   Phonenumber: yahinnieltheking01@gmail.com
+|-----------------------------------------------------------------------------------------------
+|   Reporte: string
+|-----------------------------------------------------------------------------------------------
+|   Fecha: 02/11/2023 16:45:50
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: Yahinniel                     
+|   LastName: Vasquez
+|   Puesto: 8097826565
+|   MailAddress: Prueba
+|   Phonenumber: yahinnieltheking01@gmail.com
+|-----------------------------------------------------------------------------------------------
+|   Reporte: Proveedor
+|-----------------------------------------------------------------------------------------------
+|   Fecha: 02/11/2023 16:46:36
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: string                     
+|   LastName: string
+|   Puesto: string
+|   MailAddress: string
+|   Phonenumber: string
+|-----------------------------------------------------------------------------------------------
+|   Reporte: string
+|-----------------------------------------------------------------------------------------------
+|   Fecha: 02/11/2023 17:04:18
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: string                     
+|   LastName: string
+|   Puesto: string
+|   MailAddress: string
+|   Phonenumber: string
+|-----------------------------------------------------------------------------------------------
+|   Reporte: string
+|-----------------------------------------------------------------------------------------------
+|   Fecha: 02/11/2023 17:06:52
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: string                     
+|   LastName: string
+|   Puesto: string
+|   MailAddress: string
+|   Phonenumber: string
+|-----------------------------------------------------------------------------------------------
+|   Reporte: string
+|-----------------------------------------------------------------------------------------------
+|   Fecha: 02/11/2023 17:11:13
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: string                     
+|   LastName: string
+|   Puesto: string
+|   MailAddress: string
+|   Phonenumber: string
+|-----------------------------------------------------------------------------------------------
+|   Reporte: string
+|-----------------------------------------------------------------------------------------------
+|   Fecha: 02/11/2023 17:13:36
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: string                     
+|   LastName: string
+|   Puesto: string
+|   MailAddress: string
+|   Phonenumber: string
+|-----------------------------------------------------------------------------------------------
+|   Reporte: string
+|-----------------------------------------------------------------------------------------------
+|   Fecha: 02/11/2023 17:16:09
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: string                     
+|   LastName: string
+|   Puesto: string
+|   MailAddress: string
+|   Phonenumber: string
+|-----------------------------------------------------------------------------------------------
+|   Reporte: string
+|-----------------------------------------------------------------------------------------------
+|   Fecha: 02/11/2023 17:18:50
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: string                     
+|   LastName: string
+|   Puesto: string
+|   MailAddress: string
+|   Phonenumber: string
+|-----------------------------------------------------------------------------------------------
+|   Reporte: string
+|-----------------------------------------------------------------------------------------------
+|   Fecha: 02/11/2023 17:21:29
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: string                     
+|   LastName: string
+|   Puesto: string
+|   MailAddress: string
+|   Phonenumber: string
+|-----------------------------------------------------------------------------------------------
+|   Reporte: string
+|-----------------------------------------------------------------------------------------------
+|   Fecha: 02/11/2023 17:32:47
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: string                     
+|   LastName: string
+|   Puesto: string
+|   MailAddress: string
+|   Phonenumber: string
+|-----------------------------------------------------------------------------------------------
+|   Reporte: string
+|-----------------------------------------------------------------------------------------------
+|   Fecha: 02/11/2023 17:35:54
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: string                     
+|   LastName: string
+|   Puesto: string
+|   MailAddress: string
+|   Phonenumber: string
+|-----------------------------------------------------------------------------------------------
+|   Reporte: string
+|-----------------------------------------------------------------------------------------------
+|   Fecha: 02/11/2023 17:37:15
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: Yahinniel                     
+|   LastName: Vasquez
+|   Puesto: 8297852735
+|   MailAddress: Prueba
+|   Phonenumber: yahinnieltheking01@gmail.com
+|-----------------------------------------------------------------------------------------------
+|   Reporte: Cliente
+|-----------------------------------------------------------------------------------------------
+|   Fecha: 02/11/2023 17:40:46
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: string                     
+|   LastName: string
+|   Puesto: string
+|   MailAddress: string
+|   Phonenumber: string
+|-----------------------------------------------------------------------------------------------
+|   Reporte: string
+|-----------------------------------------------------------------------------------------------
+|   Fecha: 02/11/2023 17:46:52
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: string                     
+|   LastName: string
+|   Puesto: 8097826565
+|   MailAddress: string
+|   Phonenumber: yahinnieltheking01@gmqil.com
+|-----------------------------------------------------------------------------------------------
+|   Reporte: string
+|-----------------------------------------------------------------------------------------------
+|   Fecha: 02/11/2023 19:08:20
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: string                     
+|   LastName: string
+|   Puesto: 8097826565
+|   MailAddress: string
+|   Phonenumber: string
+|-----------------------------------------------------------------------------------------------
+|   Reporte: string
+|-----------------------------------------------------------------------------------------------
+|   Fecha: 02/11/2023 19:09:59
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: string                     
+|   LastName: string
+|   Puesto: string
+|   MailAddress: string
+|   Phonenumber: string
+|-----------------------------------------------------------------------------------------------
+|   Reporte: string
+|-----------------------------------------------------------------------------------------------
+|   Fecha: 02/11/2023 19:10:31
+< - > < - > < - > < - > < - > < - > < - > < - > 
+
+< - > < - > < - > < - > < - > < - > < - > < - > 
+|   Name: string                     
+|   LastName: string
+|   Puesto: string
+|   MailAddress: string
+|   Phonenumber: string
+|-----------------------------------------------------------------------------------------------
+|   Reporte: string
+|-----------------------------------------------------------------------------------------------
+|   Fecha: 02/11/2023 19:11:01
+< - > < - > < - > < - > < - > < - > < - > < - > 
